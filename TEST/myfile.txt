@@ -1,2 +1,7 @@
 this is a text text
+<<<<<<< HEAD
 
+=======
+this is for bug fix
+1234
+>>>>>>> BugFix
